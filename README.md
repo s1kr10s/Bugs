@@ -3,7 +3,7 @@ Reports List
 
 ```
 BigAntServer (4.2) Console
-Microsoft OutLook-P
+Microsoft OutLook Planner
 Wordpress (4.5.2)
 Liferay Open Redirect
 DupScoutClient
