@@ -1,0 +1,5 @@
+1- We run the mongod.exe service, this binary loads differentlylibraries that we can visualize with ProcMon and see that they are not found.
+2- We analyze one of them, in this case it was winmm.dll and we load in IDA to identify the functions that are called.
+3- With this information we can develop a small proof of concept, compiling a dll with the required functions and executing powershell.exe
+4- After compiling the fake library called fake_dll.dll we copy it to the root directory of the vulnerable executable and rename it to winmm.dll which is called by the executable.
+5- Finally we execute the service.
