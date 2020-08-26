@@ -7,6 +7,6 @@ Microsoft OutLook Planner
 Wordpress (4.5.2)
 Liferay Open Redirect
 DupScoutClient
-Oracle Application Manager
+Oracle E-Bisness Suit
 MongoDB 3.5.15 / 4.2.9 / 4.4.4
 ```
