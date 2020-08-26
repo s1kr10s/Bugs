@@ -1,7 +1,11 @@
 # Bugs
-Lista de exploit...
+Reports List
 
-BigServer.zip  -> BigAntServer (4.2) Console - 2017<br>
-Microsoft.zip  -> Microsoft OutLook-P - 2017<br>
-PocWP_xss.zip  -> Wordpress (4.5.2)<br>
-LiferayPoc.zip -> Liferay Open Redirect
+```
+BigAntServer (4.2) Console
+Microsoft OutLook-P
+Wordpress (4.5.2)
+Liferay Open Redirect
+DupScoutClient
+MongoDB 3.5.15 / 4.2.9 / 4.4.4
+```
