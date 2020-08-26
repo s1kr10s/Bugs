@@ -1,1 +1,10 @@
-Pronto...
+Application:
+Oracle Application Manager (OAM)
+
+Dork:
+intext:"Logon Options for Oracle Applications 11i"
+inurl:"requestUrl=APPSHOMEPAGE"
+inurl:"OA_HTML"
+
+Payload:
+/servlets/weboam/redirectURL$url=
